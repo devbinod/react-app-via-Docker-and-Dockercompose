@@ -10,6 +10,7 @@ deploy:
   provider: elasticbeanstack
   region: "us-east-1"
   app: "Simple-docker-react"
+  env: "SimpleDockerReact-env"
   bucket_name: "elasticbeanstalk-us-east-1-547314634517"
   bucket_paht: "Simple-docker-react"
   on:
