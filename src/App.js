@@ -12,7 +12,9 @@ class App extends Component {
             Edit <code>src/App.js</code> and save to reload.
           </p>
 
-          heheheh
+          Hello world from React: Created Feature branch
+
+          Developer :Binod Pant
 
         </header>
       </div>
