@@ -13,7 +13,6 @@ class App extends Component {
           </p>
 
       <h3>hehehe</h3>
-          Developer :Binod Pant || BINOD Pant....
 
         </header>
       </div>
