@@ -14,7 +14,7 @@ class App extends Component {
 
           Hello world from React with jenkins  now add .......
 
-          Developer :Binod Pant || BINOD
+          Developer :Binod Pant || BINOD Pant....
 
         </header>
       </div>
