@@ -12,7 +12,7 @@ class App extends Component {
             Edit <code>src/App.js</code> and save to reload.
           </p>
 
-          Hello world from React with jenkins 
+          Hello world from React with jenkins  now add .......
 
           Developer :Binod Pant || BINOD
 
